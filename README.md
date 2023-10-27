@@ -53,7 +53,7 @@ Para cada questão crie um arquivo chamado `questao-XX.sql`, onde XX é o númer
 1. Encontrar os 5 principais clientes que mais alugaram filmes
 1. Calcular a receita total de todos os aluguéis
 1. Listar os atores que apareceram em mais de 10 filmes
-1. Descobrir os filmes alugados pelo cliente de id 2873
+1. Descobrir os filmes alugados pelo cliente de id 273
 1. Listar todas as categorias e o número de filmes em cada categoria
 1. Encontrar os filmes que não estão em estoque
 1. Obter o número total de clientes por loja
